@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Covid 19</string>
+    <string name="yellow_star"> </string>
+    <string name="bio" translatable="false">Hey, my name is Covid.
+        \n\nI am a virus.
+        \n\nI have ability to spread when people cough, sneeze, sing etc.
+        \nThe closer people interact, and the longer they interact, the more likely they are to transmit me.
+        \n\nMasks and gloves disturbs my journey.
+        \nAnd sanitizer kills me.
+        \nAs the people become more careless I can move faster and gain immunity.
+        \n\nI heard that the vaccination for me has come to action.
+        \n\nSo I think it\'s time for me to go to mars.
+        \nBut I\'m sure you all have seen a world you never saw before, Thank me later!.\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">DONE</string>
+</resources>
